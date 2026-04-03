@@ -1,0 +1,30 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v3
+
+      - name: Configurar Java 21
+        uses: actions/setup-java@v3
+        with:
+          distribution: temurin
+          java-version: '21'
+          cache: maven
+
+      - name: Dar permissão ao mvnw
+        run: chmod +x mvnw
+
+      - name: Build do projeto
+        run: ./mvnw clean package -DskipTests
+
+      # Quando quiser rodar testes, é só descomentar 👇
+      # - name: Rodar testes
+      #   run: ./mvnw test

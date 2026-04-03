@@ -1,1 +1,5 @@
-com\uniesptech\UniespTechApplication.class
+com\UniespTech\model\Aluno.class
+com\UniespTech\service\AlunoService.class
+com\UniespTech\UniespTechApplication.class
+com\UniespTech\repository\AlunoRepository.class
+com\UniespTech\controller\AlunoController.class

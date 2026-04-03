@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb4e0751-5dba-4711-9d30-5f903290ee2c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/uniesptech/UniespTechApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/uniesptech/UniespTechApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/uniesptech/controller/AlunoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/uniesptech/controller/AlunoController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/uniesptech/model/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/uniesptech/model/Aluno.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/uniesptech/repository/AlunoRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/uniesptech/repository/AlunoRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/uniesptech/service/AlunoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/uniesptech/service/AlunoService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/uniesp-tech-api-0.0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/uniesp-tech-api-0.0.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/uniesp-tech-api-0.0.1.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/uniesp-tech-api-0.0.1.jar.original" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +67,7 @@
       <updated>1774804521560</updated>
       <workItem from="1774804526613" duration="1233000" />
       <workItem from="1774806281291" duration="2088000" />
-      <workItem from="1775235025920" duration="4784000" />
+      <workItem from="1775235025920" duration="5861000" />
     </task>
     <servers />
   </component>

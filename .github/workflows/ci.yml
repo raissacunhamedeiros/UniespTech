@@ -10,10 +10,10 @@ jobs:
 
     steps:
       - name: Checkout do código
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Configurar Java 21
-        uses: actions/setup-java@v3
+        uses: actions/setup-java@v4
         with:
           distribution: temurin
           java-version: '21'
@@ -25,6 +25,6 @@ jobs:
       - name: Build do projeto
         run: ./mvnw clean package -DskipTests
 
-      # Quando quiser rodar testes, é só descomentar 👇
+      # Quando quiser rodar testes:
       # - name: Rodar testes
       #   run: ./mvnw test
